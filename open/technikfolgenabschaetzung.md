@@ -33,7 +33,8 @@ Intro
 Beispiele
 --------------------------------------
 * Historisch
-  - Atom
+  - Kulturelle Unterschiede. Typisch deutsch.
+  - Atom
     . Unfall
     . Endlager
   - Auto (
